@@ -47,7 +47,7 @@
 
 ```bash
 git clone https://github.com/yourusername/enzo-stock.git
-cd enzo-stock
+cd 𝐌𝐨 𝐬𝐭𝐨𝐫𝐞 𝐬𝐭𝐨𝐜𝐤
 ```
 
 ### 2\. تثبيت المتطلبات:
@@ -125,7 +125,7 @@ MIT License - [LICENSE](LICENSE)
 
 ## 👤 Author
 
-**Enzo** - [@0xenzox](https://discord.com)
+**𝐌𝐨 𝐬𝐭𝐨𝐫𝐞 𝐬𝐭𝐨𝐜𝐤** - [7am.o](https://discord.com)
 
 \---
 
